@@ -33,3 +33,7 @@ User Story #14: My product landing page should have at least one media query.
 User Story #15: My product landing page should utilize CSS flexbox at least once.
 
 The product I am using is Google's Chromebooks. 
+
+Laid out the html so far.
+
+Fixed the embed link for the youtube video.
