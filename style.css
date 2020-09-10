@@ -6,6 +6,7 @@
 }
 
 body {
+    background-color: rgb(247, 246, 246);
     margin: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -45,8 +46,7 @@ iframe {
 }
 
 #header-img {
-    margin-top: 75px;
-    margin-left: 600px;
+    margin-left: 340px;
 }
 
 #Newsletter {
@@ -66,4 +66,36 @@ label {
 
 #submit {
     margin-left: 60px;
+    background-color: #0a36fa;
+    color: white;
+}
+
+#Shop {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: baseline;
+    padding: 100px 20px;
+}
+
+.chrome1 {
+    background-color: #bebebe;
+    padding: 20px;
+}
+
+.chrome2 {
+    background-color: #bebebe;
+    padding: 20px;
+}
+
+.chrome3 {
+    background-color: #bebebe;
+    padding: 20px;
+}
+
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
